@@ -1,1 +1,0 @@
-export const DBName = "React-Video-Project";
